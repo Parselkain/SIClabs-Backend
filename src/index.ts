@@ -6,7 +6,7 @@ const port = process.env.PORT || 3001;
 
 // Middleware
 app.use(cors({
-  origin: 'https://your-frontend-url.vercel.app',  // Sostituisci con il tuo URL frontend
+  origin: 'https://siclabs-frontend.onrender.com', 
   methods: ['GET', 'POST'],
   allowedHeaders: ['Content-Type']
 }));
