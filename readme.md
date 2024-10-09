@@ -12,6 +12,7 @@ npm run dev
     - Integrazione con l'autenticazione Google OAuth2.
     - Supporto per il deploy su Render per backend e frontend.
     - Integrazione con Nodemon.
+    - Integrazione con MongoDB tramite mongoose
 - Modificato
     - Aggiornato il file di configurazione .env per supportare variabili d'ambiente aggiuntive.
     - Migliorata la gestione degli errori lato server.
